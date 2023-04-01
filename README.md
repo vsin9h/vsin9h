@@ -34,7 +34,8 @@
 ### Stats: 
  <p> 
      <img align="center" src="https://github-readme-stats.vercel.app/api?username=vsin9h&show_icons=true&include_all_commits=true&count_private=true&issues,contribs=true&border_radius=0&locale=en&theme=vision-friendly-dark" alt="vsin9h" height="139" /> </br> </br>
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsin9h&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=vision-friendly-dark" alt="vsin9h" height="139" /> 
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsin9h&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=vision-friendly-dark" alt="vsin9h" height="139" /> </br> </br>
+   <img aligh="center" src="https://streak-stats.demolab.com/?user=vsin9h&theme=vision-friendly-dark" alt="vsin9h" height="139" />
  </p>
  
  <details> 
@@ -46,8 +47,11 @@
  <details> 
    <summary>Other Stats</summary> 
    <br/> 
- <p align="left"> <a href="https://github.com/vsin9h"><img src="https://github-profile-trophy.vercel.app/?username=vsin9h&show_icons=true" alt="stats" /></a> </p> 
+ <p align="left"> <a href="https://github.com/vsin9h"><img src="https://github-profile-trophy.vercel.app/?username=vsin9h&theme=juicyfresh" alt="stats" /></a> </p> 
  </details>
+ 
+   <img src="https://github-readme-twitter.gazf.vercel.app/api?id=vsin9h" alt="recent-tweets" />
+
  
  ## Connect with me<img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Handshake.gif" height="32px">
  <p align="left">
